@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "vehicle": "Galeza Mercedes Sprinter, front facing right",
+  "canvas": {
+    "width": 1677,
+    "height": 938
+  },
+  "vehicleBounds": {
+    "left": 54,
+    "top": 135,
+    "right": 1635,
+    "bottom": 777
+  },
+  "background": "#F2E7DE",
+  "direction": "left-to-right",
+  "rollingRadius": 95.5,
+  "wheelSprite": {
+    "width": 1200,
+    "height": 1200,
+    "centre": [
+      600,
+      600
+    ],
+    "radius": 560
+  },
+  "wheels": {
+    "rear": {
+      "cx": 359.0,
+      "cy": 684.0,
+      "rx": 97.5,
+      "ry": 95.5,
+      "groundY": 777.0,
+      "phase": 0
+    },
+    "front": {
+      "cx": 1401.5,
+      "cy": 684.0,
+      "rx": 97.5,
+      "ry": 95.5,
+      "groundY": 777.0,
+      "phase": 0
+    }
+  },
+  "rotationDegrees": "travelInSourcePixels / rollingRadius * 180 / Math.PI",
+  "rotationSign": "positive x -> positive SVG angle (clockwise, moving right)",
+  "layerOrder": [
+    "shadow-ground",
+    "shadow-contact",
+    "wheel-wells",
+    "wheel-rear",
+    "wheel-front",
+    "wheel-light-rear",
+    "wheel-light-front",
+    "body-galeza"
+  ],
+  "nativeMasterResolution": [
+    1677,
+    938
+  ],
+  "source": "Approved AI-generated vehicle edit; original Galeza logo supplied by user",
+  "notes": [
+    "No opening doors or cables.",
+    "Fixed outer tyre/contact masks and arch shading.",
+    "Shared matching steel wheel type on both axles.",
+    "Photographic 2D reconstruction; fixed camera viewpoint."
+  ]
+}
