@@ -1,4 +1,4 @@
-:HL["/galeza-prototyp/_next/static/chunks/0ec0xcd0oyvs5.css","style"]
+:HL["/galeza-prototyp/_next/static/chunks/1s_9jxei8yr1l.css","style"]
 :HL["/galeza-prototyp/_next/static/media/hubot_sans_latin_standard_normal-s.p.22_kljspce-vg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/galeza-prototyp/_next/static/media/jetbrains_mono_latin_wght_normal-s.p.2rmhnsrc80fag.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/galeza-prototyp/_next/static/media/mona_sans_latin_standard_normal-s.p.1kdvxkggsr1nm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 :HL["/galeza-prototyp/brand/galeza-logo-negativ-sand.svg","image"]
 :HL["/galeza-prototyp/brand/galeza-g.svg","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"RoXewLdGMn6OTaZROp5UL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"UZt8U-_wlbuaRyjHck998","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
