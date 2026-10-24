@@ -1,5 +1,5 @@
-:HL["/galeza-prototyp/_next/static/chunks/1s_9jxei8yr1l.css","style"]
+:HL["/galeza-prototyp/_next/static/chunks/2lclqteba3_6h.css","style"]
 :HL["/galeza-prototyp/brand/galeza-logo-negativ-sand.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"zb6UEqtf6cOOoWCihSgsb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"GSiPuAl_4b_L3cOu_TdAj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
