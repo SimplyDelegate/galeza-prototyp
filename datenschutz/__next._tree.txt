@@ -1,8 +1,8 @@
-:HL["/galeza-prototyp/_next/static/chunks/2lclqteba3_6h.css","style"]
+:HL["/galeza-prototyp/_next/static/chunks/1s8jcwm-15u94.css","style"]
 :HL["/galeza-prototyp/_next/static/media/hubot_sans_latin_standard_normal-s.p.22_kljspce-vg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/galeza-prototyp/_next/static/media/jetbrains_mono_latin_wght_normal-s.p.2rmhnsrc80fag.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/galeza-prototyp/_next/static/media/mona_sans_latin_standard_normal-s.p.1kdvxkggsr1nm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/galeza-prototyp/brand/galeza-logo-negativ-sand.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"datenschutz","h":96,"c":"$Q2"}]]
-0:{"b":"GSiPuAl_4b_L3cOu_TdAj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"7VbEDhlicPup4JcNXE_mZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
