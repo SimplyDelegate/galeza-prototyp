@@ -2,8 +2,8 @@
 :HL["/galeza-prototyp/_next/static/media/hubot_sans_latin_standard_normal-s.p.22_kljspce-vg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/galeza-prototyp/_next/static/media/jetbrains_mono_latin_wght_normal-s.p.2rmhnsrc80fag.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/galeza-prototyp/_next/static/media/mona_sans_latin_standard_normal-s.p.1kdvxkggsr1nm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/galeza-prototyp/_next/static/chunks/41tkujcz1yf7s.css","style"]
+:HL["/galeza-prototyp/_next/static/chunks/0g2pzehqx7azc.css","style"]
 :HL["/galeza-prototyp/brand/galeza-logo-negativ-sand.svg","image"]
 :HL["/galeza-prototyp/brand/galeza-g.svg","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"7VbEDhlicPup4JcNXE_mZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"LOgreuYTSDOFTPgmrsqzr","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
