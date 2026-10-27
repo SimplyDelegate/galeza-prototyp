@@ -6,4 +6,4 @@
 :HL["/galeza-prototyp/brand/galeza-logo-negativ-sand.svg","image"]
 :HL["/galeza-prototyp/brand/galeza-g.svg","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"jiLljlo49f-lV52CFla9r","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"AF09doMpMHO5wUwPTtfY6","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
